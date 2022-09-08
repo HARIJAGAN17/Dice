@@ -8,7 +8,7 @@ void main() {
         appBar: AppBar(
           centerTitle: true,
           title: const Text('DICE'),
-          backgroundColor: Colors.teal,
+          backgroundColor: Colors.red.shade300,
         ),
         backgroundColor: Colors.red,
         body: const DiceAPP(),
